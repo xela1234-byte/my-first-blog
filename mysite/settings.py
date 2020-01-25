@@ -15,7 +15,7 @@ SECRET_KEY = '#j7h%$zr^^-qgz&=pdn$dzwf@a_+wf=l=iavc!-qaa*^#mtp^#'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'xela.pythonanywhere.com']
 
 # Application definition
 

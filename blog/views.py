@@ -1,3 +1,5 @@
+return redirect('post_detail', pk=post.pk)
+
 from django.shortcuts import redirect
 from django.shortcuts import render
 from django.utils import timezone
